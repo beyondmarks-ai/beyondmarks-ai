@@ -1,7 +1,7 @@
 <!-- github-profile-readme -->
 
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Beyond Marks AI Academy — engineering practical AI products" />
+  <img src="./assets/banner.png" width="100%" alt="Beyond Marks AI Academy — beyond learning, beyond limits, beyond marks" />
 </div>
 
 <div align="center">
