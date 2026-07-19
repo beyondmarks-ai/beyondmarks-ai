@@ -1,0 +1,32 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="10" x2="1110" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#171B3A"/>
+      <stop offset="1" stop-color="#101C35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="300" y1="80" x2="900" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1030" cy="55" r="130" fill="#22D3EE" fill-opacity="0.12" filter="url(#glow)"/>
+  <circle cx="140" cy="290" r="150" fill="#8B5CF6" fill-opacity="0.14" filter="url(#glow)"/>
+  <path d="M945 90L993 62L1041 90V146L993 174L945 146V90Z" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.75"/>
+  <path d="M993 62V118M945 90L993 118L1041 90M993 118V174" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.48"/>
+  <circle cx="993" cy="118" r="8" fill="#22D3EE"/>
+  <circle cx="945" cy="90" r="5" fill="#8B5CF6"/>
+  <circle cx="1041" cy="90" r="5" fill="#22D3EE"/>
+  <text x="76" y="126" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1">Beyond Marks AI</text>
+  <text x="78" y="175" fill="#B8C1D9" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="3">ACADEMY · ENGINEERING · INNOVATION</text>
+  <rect x="78" y="209" width="470" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="78" y="252" fill="#D8DEEE" font-family="Segoe UI, Arial, sans-serif" font-size="19">Building practical AI products and future-ready developers.</text>
+</svg>
