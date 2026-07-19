@@ -6,9 +6,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/beyondmarks.ai-Visit_Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beyondmarks.ai)
-[![GitHub followers](https://img.shields.io/github/followers/beyondmarks-ai?style=for-the-badge&logo=github&label=Follow)](https://github.com/beyondmarks-ai?tab=followers)
-[![Public repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbeyondmarks-ai)](https://github.com/beyondmarks-ai?tab=repositories)
+[**Website**](https://beyondmarks.ai) &nbsp;&nbsp;·&nbsp;&nbsp; [**Projects**](https://github.com/beyondmarks-ai?tab=repositories) &nbsp;&nbsp;·&nbsp;&nbsp; [**Follow on GitHub**](https://github.com/beyondmarks-ai?tab=followers)
 
 </div>
 
@@ -34,28 +32,19 @@ Beyond Marks AI Academy is an engineering-focused learning community in India. W
 
 ## Technology landscape
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-</div>
+<p align="center">
+  <code>Python</code>&nbsp; <code>TypeScript</code>&nbsp; <code>C# / .NET</code>&nbsp; <code>Go</code>&nbsp; <code>Dart</code>&nbsp; <code>Kotlin</code><br /><br />
+  <code>React</code>&nbsp; <code>Flutter</code>&nbsp; <code>Microsoft Azure</code>&nbsp; <code>Firebase</code>&nbsp; <code>Docker</code>&nbsp; <code>GitHub Actions</code>
+</p>
 
 ## Open-source activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=beyondmarks-ai&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=6C63FF&icon_color=00C2FF&text_color=718096" alt="Beyond Marks AI GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyondmarks-ai&layout=compact&hide_border=true&theme=transparent&title_color=6C63FF&text_color=718096&langs_count=8" alt="Most-used languages" />
+
+**42 public repositories** &nbsp;·&nbsp; **Multi-platform engineering** &nbsp;·&nbsp; **AI and cybersecurity focus**
+
+[Browse all repositories](https://github.com/beyondmarks-ai?tab=repositories) &nbsp;·&nbsp; [View releases](https://github.com/beyondmarks-ai?tab=repositories&q=&type=source&language=&sort=stargazers)
+
 </div>
 
 ---
